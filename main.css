@@ -1,0 +1,24 @@
+.card{
+    box-shadow: none;
+    transition: all;
+    transition-duration: 200ms;
+}
+.card:hover{
+
+    -webkit-box-shadow: -2px 0px 22px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 0px 22px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 22px -4px rgba(0,0,0,0.75);
+    background: transparent;
+
+}
+
+.Cardicon:hover{
+    background-color: lightblue;
+}
+
+.featureCardSVG{
+    /* box-shadow: none; */
+    transition: all;
+    transition-duration: 200ms;
+}
+
